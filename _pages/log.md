@@ -3,7 +3,7 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 1: April 26, 2021
+### Week 1: May 1, 2023
 
 * **Monday**: 
 * **Tuesday**: 
